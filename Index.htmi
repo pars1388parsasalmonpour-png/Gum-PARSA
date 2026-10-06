@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>پارسا سلمان پور | طراح سایت و توسعه‌دهنده چت‌بات هوش مصنوعی</title>
+
+    <meta name="description"
+          content="رزومه و وب‌سایت شخصی پارسا سلمان پور، طراح سایت و توسعه‌دهنده چت‌بات هوش مصنوعی">
+
+    <meta name="keywords"
+          content="پارسا سلمان پور, طراحی سایت, چت بات هوش مصنوعی, هوش مصنوعی, طراحی وب, AI">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Vazirmatn:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- ================= HEADER ================= -->
+
+<header class="header">
+
+    <div class="container nav">
+
+        <a href="#home" class="logo">
+            <span class="logo-p">P</span>
+            <span>PARSA</span>
+            <small>AI</small>
+        </a>
+
+        <nav class="nav-menu" id="navMenu">
+
+            <a href="#home" data-fa="خانه" data-en="Home">خانه</a>
+
+            <a href="#about"
+               data-fa="درباره من"
+               data-en="About">
+                درباره من
+            </a>
+
+            <a href="#skills"
+               data-fa="مهارت‌ها"
+               data-en="Skills">
+                مهارت‌ها
+            </a>
+
+            <a href="#services"
+               data-fa="خدمات"
+               data-en="Services">
+                خدمات
+            </a>
+
+            <a href="#projects"
+               data-fa="پروژه‌ها"
+               data-en="Projects">
+                پروژه‌ها
+            </a>
+
+            <a href="#contact"
+               data-fa="تماس"
+               data-en="Contact">
+                تماس
+            </a>
+
+        </nav>
+
+        <div class="nav-actions">
+
+            <button class="icon-btn" id="languageBtn">
+                EN
+            </button>
+
+            <button class="icon-btn" id="themeBtn">
+                🌙
+            </button>
+
+            <button class="menu-btn" id="menuBtn">
+                ☰
+            </button>
+
+        </div>
+
+    </div>
+
+</header>
+
+
+<!-- ================= HERO ================= -->
+
+<main>
+
+<section class="hero" id="home">
+
+    <div class="hero-bg"></div>
+
+    <div class="container hero-grid">
+
+        <div class="hero-content">
+
+            <div class="badge">
+                <span class="status-dot"></span>
+
+                <span
+                    data-fa="طراحی وب و هوش مصنوعی"
+                    data-en="Web Design & Artificial Intelligence">
+                    طراحی وب و هوش مصنوعی
+                </span>
+            </div>
+
+            <h1>
+
+                <span
+                    data-fa="سلام، من "
+                    data-en="Hello, I'm ">
+                    سلام، من
+                </span>
+
+                <strong>پارسا</strong>
+
+                <span
+                    data-fa=" هستم."
+                    data-en=".">
+                    هستم.
+                </span>
+
+            </h1>
+
+            <h2
+                data-fa="طراح سایت و توسعه‌دهنده چت‌بات هوش مصنوعی"
+                data-en="Web Designer & AI Chatbot Developer">
+                طراح سایت و توسعه‌دهنده چت‌بات هوش مصنوعی
+            </h2>
+
+            <p
+                data-fa="من روی طراحی وب‌سایت‌های مدرن، تجربه کاربری، راهکارهای هوش مصنوعی و توسعه چت‌بات‌های هوشمند تمرکز دارم."
+                data-en="I focus on modern website design, user experience, artificial intelligence solutions and intelligent chatbot development.">
+                من روی طراحی وب‌سایت‌های مدرن، تجربه کاربری، راهکارهای هوش مصنوعی و توسعه چت‌بات‌های هوشمند تمرکز دارم.
+            </p>
+
+            <div class="hero-buttons">
+
+                <a href="#projects"
+                   class="btn btn-primary"
+                   data-fa="مشاهده پروژه‌ها"
+                   data-en="View Projects">
+                    مشاهده پروژه‌ها
+                </a>
+
+                <a href="#contact"
+                   class="btn btn-secondary"
+                   data-fa="ارتباط با من"
+                   data-en="Contact Me">
+                    ارتباط با من
+                </a>
+
+            </div>
+
+            <div class="hero-stats">
+
+                <div>
+                    <strong>01</strong>
+                    <span
+                        data-fa="ماه تجربه"
+                        data-en="Month Experience">
+                        ماه تجربه
+                    </span>
+                </div>
+
+                <div>
+                    <strong>AI</strong>
+                    <span
+                        data-fa="تمرکز روی هوش مصنوعی"
+                        data-en="AI Focus">
+                        تمرکز روی هوش مصنوعی
+                    </span>
+                </div>
+
+                <div>
+                    <strong>Web</strong>
+                    <span
+                        data-fa="طراحی وب"
+                        data-en="Web Design">
+                        طراحی وب
+                    </span>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- PROFILE CARD -->
+
+        <div class="hero-visual">
+
+            <div class="profile-card">
+
+                <div class="card-glow"></div>
+
+                <div class="profile-avatar">
+                    P
+                </div>
+
+                <div class="profile-info">
+
+                    <h3>
+                        پارسا سلمان پور
+                    </h3>
+
+                    <p>
+                        Web Designer
+                    </p>
+
+                    <p>
+                        AI Chatbot Developer
+                    </p>
+
+                </div>
+
+                <div class="code-window">
+
+                    <div class="code-header">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+
+                    <pre><code>
+const developer = {
+  name: "Parsa",
+  skills: [
+    "Web Design",
+    "AI Chatbot",
+    "Prompt Engineering"
+  ],
+  passion: "Artificial Intelligence"
+};
+                    </code></pre>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= ABOUT ================= -->
+
+<section class="section" id="about">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span>01</span>
+
+            <h2
+                data-fa="درباره من"
+                data-en="About Me">
+                درباره من
+            </h2>
+
+        </div>
+
+        <div class="about-grid">
+
+            <div class="about-text">
+
+                <h3
+                    data-fa="ترکیب طراحی وب و هوش مصنوعی"
+                    data-en="Combining Web Design & AI">
+                    ترکیب طراحی وب و هوش مصنوعی
+                </h3>
+
+                <p
+                    data-fa="من پارسا سلمان پور هستم، دانش‌آموز پایه یازدهم رشته علوم تجربی در مدرسه علامه جعفری. در کنار تحصیل، در زمینه طراحی سایت و توسعه چت‌بات‌های هوش مصنوعی فعالیت می‌کنم."
+                    data-en="I'm Parsa Salmanpour, an 11th-grade Experimental Sciences student at Allameh Jafari School. Alongside my studies, I work in web design and AI chatbot development.">
+                    من پارسا سلمان پور هستم، دانش‌آموز پایه یازدهم رشته علوم تجربی در مدرسه علامه جعفری. در کنار تحصیل، در زمینه طراحی سایت و توسعه چت‌بات‌های هوش مصنوعی فعالیت می‌کنم.
+                </p>
+
+                <p
+                    data-fa="هدف من ساخت محصولات دیجیتال مدرن، سریع، کاربردی و زیبا با استفاده از فناوری‌های جدید است."
+                    data-en="My goal is to create modern, fast, useful and beautiful digital products using modern technologies.">
+                    هدف من ساخت محصولات دیجیتال مدرن، سریع، کاربردی و زیبا با استفاده از فناوری‌های جدید است.
+                </p>
+
+            </div>
+
+
+            <div class="info-card">
+
+                <div class="info-row">
+                    <span>نام</span>
+                    <strong>پارسا سلمان پور</strong>
+                </div>
+
+                <div class="info-row">
+                    <span>سن</span>
+                    <strong>۱۷ سال</strong>
+                </div>
+
+                <div class="info-row">
+                    <span>کشور</span>
+                    <strong>ایران</strong>
+                </div>
+
+                <div class="info-row">
+                    <span>استان</span>
+                    <strong>قزوین</strong>
+                </div>
+
+                <div class="info-row">
+                    <span>وضعیت</span>
+                    <strong>محصل</strong>
+                </div>
+
+                <div class="info-row">
+                    <span>تخصص</span>
+                    <strong>Web & AI</strong>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ================= SKILLS ================= -->
+
+<section class="section section-gray" id="skills">
+
+    <div class="container">
+
+        <div class="section-heading">
+
+            <span>02</span>
+
+            <h2
+                data-fa="مهارت‌ها"
+                data-en="Skills">
+                مهارت‌ها
+            </h2>
+
+        </div>
+
+        <div class="skills-grid">
+
+            <div class="skill-card">
+                <div class="skill-icon">01</div>
+                <h3>Web Design</h3>
+                <p
+                    data-fa="طراحی وب‌سایت‌های مدرن و واکنش‌گرا"
+                    data-en="Modern and responsive website design">
+                    طراحی وب‌سایت‌های مدرن و واکنش‌گرا
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-icon">02</div>
+                <h3>UI / UX</h3>
+                <p
+                    data-fa="تمرکز بر تجربه و رابط کاربری"
+                    data-en="Focus on user experience and interfaces">
+                    تمرکز بر تجربه و رابط کاربری
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-icon">03</div>
+                <h3>AI Chatbot</h3>
+                <p
+                    data-fa="توسعه چت‌بات‌های هوشمند"
+                    data-en="Intelligent chatbot development">
+                    توسعه چت‌بات‌های هوشمند
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-icon">04</div>
+                <h3>Prompt Engineering</h3>
+                <p
+                    data-fa="طراحی پرامپت‌های حرفه‌ای"
+                    data-en="Professional prompt engineering">
+                    طراحی پرامپت‌های حرفه‌ای
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-icon">05</div>
+                <h3>AI Content</h3>
+                <p
+                    data-fa="تولید محتوای خلاق
